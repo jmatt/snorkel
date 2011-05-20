@@ -1,7 +1,6 @@
-(ns beachball.core
+(ns snorkel.core
   (:use compojure.core)
   (:require [compojure.route :as route]))
-
 
 (defroutes user-routes
   (GET "/" [] "Gangplank!")

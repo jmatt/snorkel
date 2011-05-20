@@ -8,7 +8,8 @@
                  [sandbar/sandbar "0.4.0-SNAPSHOT"]
                  [hiccup "0.3.5"]
                  [inflections "0.4.2-SNAPSHOT"]
-                 [clj-time "0.3.0"]]
+                 [clj-time "0.3.0"]
+                 [congomongo "0.1.4-SNAPSHOT"]]
   :dev-dependencies [[swank-clojure "1.4.0-SNAPSHOT"]
                      [clojure-source "1.2.0"]
                      [lein-ring "0.4.0"] ;ideally use one or other...
